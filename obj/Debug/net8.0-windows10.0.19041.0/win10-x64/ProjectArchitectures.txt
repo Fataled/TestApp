@@ -1,0 +1,1 @@
+C:\Users\akobr\RiderProjects\TestRun\TestRun\TestRun.csproj;x64
